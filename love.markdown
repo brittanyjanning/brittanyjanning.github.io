@@ -1,5 +1,4 @@
 ---
-published: true
 ---
 
  "There is only one serious question. And that is: 'Who knows how to make love stay?'....Answer me that and I will ease your mind about the beginning and end of time. Answer me that and I will reveal to you the purpose of the moon."

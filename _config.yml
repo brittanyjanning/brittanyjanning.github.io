@@ -23,5 +23,5 @@ defaults:
 description: Modern-Blog A Elegant template for Jekyll
 keywords: inspiration, spirituality, journaling, blogging, blog, journal, trees
 author: Brittany Janning
-baseurl: ''
+baseurl: 
 url: http://besoulfoodnoteyecandy.com

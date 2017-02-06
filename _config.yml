@@ -23,5 +23,5 @@ defaults:
 description: Modern-Blog A Elegant template for Jekyll
 keywords: inspiration, spirituality, journaling, blogging, blog, journal, trees
 author: Brittany Janning
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://besoulfoodnoteyecandy.com" # the base hostname & protocol for your site
+baseurl: ''
+url: http://besoulfoodnoteyecandy.com

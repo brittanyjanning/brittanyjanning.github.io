@@ -5,6 +5,7 @@ image: http://fillmurray.com/560/315
 subtitle: 'This is a subtitle
 
 '
+avatar: http://fillmurray.com/200/200
 layout: compress
 ---
 

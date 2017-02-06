@@ -8,21 +8,20 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    title: 
+    subtitle: 
+    date: 
+    layout: compress
+    author: Brittany Janning
+    avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
+    image: 
 description: Modern-Blog A Elegant template for Jekyll
 keywords: inspiration, spirituality, journaling, blogging, blog, journal, trees
 author: Brittany Janning
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://besoulfoodnoteyecandy.com" # the base hostname & protocol for your site
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      title:
-      subtitle:
-      date:
-      layout: "compress"
-      author: "Brittany Janning"
-      avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
-      image:
+baseurl: ''
+url: http://besoulfoodnoteyecandy.com

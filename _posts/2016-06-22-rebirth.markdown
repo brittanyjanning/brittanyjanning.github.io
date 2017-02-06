@@ -1,14 +1,14 @@
 ---
-title: "Rebirth."
-layout: "post"
+title: Rebirth.
+date: 2016-06-22 14:47:00 Z
 permalink: "/2016/06/rebirth.html"
-uuid: "3616175812901641732"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-3616175812901641732"
-date: "2016-06-22 14:47:00"
-updated: "2016-06-22 14:47:28"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '3616175812901641732'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-3616175812901641732
+updated: '2016-06-22 14:47:28'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-CWhN5SbWma0/V2qk__JTj7I/AAAAAAAAAQM/w09AVrV5HvU/s640/IMG_20160622_084343.jpg
 ---
 

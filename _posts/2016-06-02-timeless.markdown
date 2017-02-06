@@ -1,14 +1,14 @@
 ---
-title: "Timeless."
-layout: "post"
+title: Timeless.
+date: 2016-06-02 02:39:00 Z
 permalink: "/2016/06/timeless.html"
-uuid: "8727627482404550593"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-8727627482404550593"
-date: "2016-06-02 02:39:00"
-updated: "2016-06-02 02:39:55"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '8727627482404550593'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-8727627482404550593
+updated: '2016-06-02 02:39:55'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-sACGOyqFeBM/V0-cepWGGGI/AAAAAAAAAPY/Dbsahij6azw/s640/IMG_20160601_072851.jpg
 ---
 

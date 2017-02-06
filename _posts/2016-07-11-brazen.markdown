@@ -1,14 +1,14 @@
 ---
-title: "Brazen."
-layout: "post"
+title: Brazen.
+date: 2016-07-11 14:47:00 Z
 permalink: "/2016/07/brazen.html"
-uuid: "532664470178117875"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-532664470178117875"
-date: "2016-07-11 14:47:00"
-updated: "2016-07-11 14:47:52"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '532664470178117875'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-532664470178117875
+updated: '2016-07-11 14:47:52'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-8AarPAAAV7w/V4Oxli2NxbI/AAAAAAAAARI/IxLiU79D4iU/s640/20150713_064314.jpg
 ---
 

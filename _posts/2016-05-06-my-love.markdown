@@ -1,14 +1,14 @@
 ---
-title: "Incandescent."
-layout: "post"
+title: Incandescent.
+date: 2016-05-06 00:22:00 Z
 permalink: "/2016/05/my-love.html"
-uuid: "6056278671517247620"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-6056278671517247620"
-date: "2016-05-06 00:22:00"
-updated: "2016-06-02 02:59:36"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '6056278671517247620'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-6056278671517247620
+updated: '2016-06-02 02:59:36'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-oCfj_4r8gac/Vyvj0g91evI/AAAAAAAAAO0/r6zG7MEpY7E/s640/20160505_191402.jpg
 ---
 

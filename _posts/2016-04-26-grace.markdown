@@ -1,14 +1,14 @@
 ---
-title: "Grace."
-layout: "post"
+title: Grace.
+date: 2016-04-26 12:08:00 Z
 permalink: "/2016/04/grace.html"
-uuid: "2354192379481404705"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-2354192379481404705"
-date: "2016-04-26 12:08:00"
-updated: "2016-04-26 12:08:21"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '2354192379481404705'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-2354192379481404705
+updated: '2016-04-26 12:08:21'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-Vz5-V8dj11w/Vx9aNMuMbrI/AAAAAAAAAOk/eFyKou2nchg/s640/IMG_20160415_191527.jpg
 ---
 

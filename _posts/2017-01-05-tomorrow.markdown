@@ -1,14 +1,14 @@
 ---
-title: "Tomorrow. "
-layout: "post"
+title: 'Tomorrow. '
+date: 2017-01-05 18:36:00 Z
 permalink: "/2017/01/tomorrow.html"
-uuid: "2148375686532705531"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-2148375686532705531"
-date: "2017-01-05 18:36:00"
-updated: "2017-01-13 15:31:27"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '2148375686532705531'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-2148375686532705531
+updated: '2017-01-13 15:31:27'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-l1Beek6sMUA/WG6S-sqfl-I/AAAAAAAAAWY/p-7ujYK5ESk/s640/20161124_121352.jpg
 ---
 

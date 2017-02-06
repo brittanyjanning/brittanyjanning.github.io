@@ -1,14 +1,14 @@
 ---
-title: "Shadows."
-layout: "post"
+title: Shadows.
+date: 2016-12-28 18:47:00 Z
 permalink: "/2016/12/shadows.html"
-uuid: "6621118383874962355"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-6621118383874962355"
-date: "2016-12-28 18:47:00"
-updated: "2017-01-13 15:31:55"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '6621118383874962355'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-6621118383874962355
+updated: '2017-01-13 15:31:55'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-FBa8IG1SuhI/WGQIp_GvLgI/AAAAAAAAAV0/1z4-A5r9oGI/s1600/IMG_20160417_115759.jpg
 ---
 

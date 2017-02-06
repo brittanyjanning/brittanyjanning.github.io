@@ -1,14 +1,14 @@
 ---
-title: "Infinite."
-layout: "post"
+title: Infinite.
+date: 2016-06-05 02:01:00 Z
 permalink: "/2016/06/infinite.html"
-uuid: "5687391056580345355"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-5687391056580345355"
-date: "2016-06-05 02:01:00"
-updated: "2016-06-05 02:01:32"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '5687391056580345355'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-5687391056580345355
+updated: '2016-06-05 02:01:32'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-Qrjw62wRZoE/V1OH-118exI/AAAAAAAAAPo/ESOqAzZ0juo/s640/2015-07-31%25252007.22.20.png
 ---
 

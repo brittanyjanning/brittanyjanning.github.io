@@ -1,14 +1,14 @@
 ---
-title: "Gallery."
-layout: "post"
+title: Gallery.
+date: 2016-09-03 18:42:00 Z
 permalink: "/2016/09/gallery.html"
-uuid: "1554112417067500816"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-1554112417067500816"
-date: "2016-09-03 18:42:00"
-updated: "2017-01-13 15:37:32"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '1554112417067500816'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-1554112417067500816
+updated: '2017-01-13 15:37:32'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-DSe_yeCRicM/WHj0O2cZp2I/AAAAAAAAAXc/FVAjsZcK5eU/s1600/IMG_20150124_111419.jpg
 ---
 

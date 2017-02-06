@@ -1,15 +1,15 @@
 ---
-title: "Bare."
-layout: "post"
+title: Bare.
+date: 2017-01-31 16:53:00 Z
 permalink: "/2017/01/bare.html"
-uuid: "12422708930418258"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-12422708930418258"
-date: "2017-01-31 16:53:00"
-updated: "2017-01-31 16:53:15"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
-image: "https://lh3.googleusercontent.com/-tS_AlHnVAnA/WJDA-oZEnwI/AAAAAAAAAYs/_RuWg_ninks/s640/IMG_20170130_170903_373.jpg"
+layout: post
+uuid: '12422708930418258'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-12422708930418258
+updated: '2017-01-31 16:53:15'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
+image: https://lh3.googleusercontent.com/-tS_AlHnVAnA/WJDA-oZEnwI/AAAAAAAAAYs/_RuWg_ninks/s640/IMG_20170130_170903_373.jpg
 ---
 
 <div class="css-full-post-content js-full-post-content">

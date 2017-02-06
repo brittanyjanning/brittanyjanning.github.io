@@ -1,14 +1,14 @@
 ---
-title: "Vision."
-layout: "post"
+title: Vision.
+date: 2016-08-08 14:49:00 Z
 permalink: "/2016/08/open-doors.html"
-uuid: "3292355015762850216"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-3292355015762850216"
-date: "2016-08-08 14:49:00"
-updated: "2016-08-08 14:53:48"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '3292355015762850216'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-3292355015762850216
+updated: '2016-08-08 14:53:48'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-BrtV5jWlvrU/V6ic-mpg5TI/AAAAAAAAASU/75YNfpJSRrA/s640/IMG_20160625_071524.jpg
 ---
 

@@ -1,15 +1,15 @@
 ---
-title: "Untethered"
-layout: "post"
+title: Untethered
+date: 2016-03-14 02:55:00 Z
 permalink: "/2016/03/untethered.html"
-uuid: "3642795514758419118"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-3642795514758419118"
-date: "2016-03-14 02:55:00"
-updated: "2017-01-13 15:40:25"
-description:
+layout: post
+uuid: '3642795514758419118'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-3642795514758419118
+updated: '2017-01-13 15:40:25'
+description: 
 author: Brittany Janning
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
-image: "https://lh3.googleusercontent.com/-FrhXoVyfq-Q/WHj06EmWGVI/AAAAAAAAAXo/6p7BIbErxaY/s640/IMG_20130813_150652.jpg"
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
+image: https://lh3.googleusercontent.com/-FrhXoVyfq-Q/WHj06EmWGVI/AAAAAAAAAXo/6p7BIbErxaY/s640/IMG_20130813_150652.jpg
 ---
 
 <div class="css-full-post-content js-full-post-content">

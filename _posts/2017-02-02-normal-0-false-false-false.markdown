@@ -1,15 +1,15 @@
 ---
-title: "Attachment"
-layout: "post"
+title: Attachment
+date: 2017-02-02 14:12:00 Z
 permalink: "/2017/02/normal-0-false-false-false.html"
-uuid: "3846838012039050475"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-3846838012039050475"
-date: "2017-02-02 14:12:00"
-updated: "2017-02-02 14:31:12"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
-image: "https://lh3.googleusercontent.com/-DOvgU5Ne3ok/WJNCr99iG5I/AAAAAAAAAY8/0ZuOo9EXHg4/s640/IMG_20170202_083009_424.jpg"
+layout: post
+uuid: '3846838012039050475'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-3846838012039050475
+updated: '2017-02-02 14:31:12'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
+image: https://lh3.googleusercontent.com/-DOvgU5Ne3ok/WJNCr99iG5I/AAAAAAAAAY8/0ZuOo9EXHg4/s640/IMG_20170202_083009_424.jpg
 ---
 
 <div class="css-full-post-content js-full-post-content">

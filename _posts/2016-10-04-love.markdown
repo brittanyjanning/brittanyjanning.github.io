@@ -1,14 +1,14 @@
 ---
-title: "Love."
-layout: "post"
+title: Love.
+date: 2016-10-04 15:30:00 Z
 permalink: "/2016/10/love.html"
-uuid: "383441825864649929"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-383441825864649929"
-date: "2016-10-04 15:30:00"
-updated: "2017-01-13 15:36:30"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '383441825864649929'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-383441825864649929
+updated: '2017-01-13 15:36:30'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-KHa__dDpARo/WHjz_QJ-U6I/AAAAAAAAAXY/i1AyhQ4xWXc/s1600/IMG_20150317_151721.jpg
 ---
 

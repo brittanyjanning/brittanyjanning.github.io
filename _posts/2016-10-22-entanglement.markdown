@@ -1,14 +1,14 @@
 ---
-title: "Entanglement."
-layout: "post"
+title: Entanglement.
+date: 2016-10-22 16:55:00 Z
 permalink: "/2016/10/entanglement.html"
-uuid: "6675359742980932418"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-6675359742980932418"
-date: "2016-10-22 16:55:00"
-updated: "2017-01-13 15:32:50"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '6675359742980932418'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-6675359742980932418
+updated: '2017-01-13 15:32:50'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-csuVB40OWEI/WHjzIVRmNjI/AAAAAAAAAXQ/MWCxRaR93g0/s1600/IMG_20150615_195602.jpg
 ---
 

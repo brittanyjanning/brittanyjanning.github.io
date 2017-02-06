@@ -1,14 +1,14 @@
 ---
-title: "Good Company."
-layout: "post"
+title: Good Company.
+date: 2016-06-30 14:23:00 Z
 permalink: "/2016/06/good-company.html"
-uuid: "1396581290116370880"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-1396581290116370880"
-date: "2016-06-30 14:23:00"
-updated: "2016-06-30 14:24:17"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '1396581290116370880'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-1396581290116370880
+updated: '2016-06-30 14:24:17'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-T8SbA2KNhug/V3UrkXO5UNI/AAAAAAAAAQc/2ySyo9VoGRU/s640/20160629_121315.jpg
 ---
 

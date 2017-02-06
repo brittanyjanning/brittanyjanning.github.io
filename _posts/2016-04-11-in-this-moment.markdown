@@ -1,14 +1,14 @@
 ---
-title: "In this Moment "
-layout: "post"
+title: 'In this Moment '
+date: 2016-04-11 02:00:00 Z
 permalink: "/2016/04/in-this-moment.html"
-uuid: "7906238476943648335"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-7906238476943648335"
-date: "2016-04-11 02:00:00"
-updated: "2016-04-11 02:03:25"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '7906238476943648335'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-7906238476943648335
+updated: '2016-04-11 02:03:25'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-pshAPGOP25Q/VwsFVlFdswI/AAAAAAAAAMc/xfNtDD6TGJg/s640/20160410_205326.jpg
 ---
 

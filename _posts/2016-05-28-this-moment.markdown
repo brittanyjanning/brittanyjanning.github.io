@@ -1,14 +1,14 @@
 ---
-title: "Everything."
-layout: "post"
+title: Everything.
+date: 2016-05-28 02:00:00 Z
 permalink: "/2016/05/this-moment.html"
-uuid: "8320649355540850837"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-8320649355540850837"
-date: "2016-05-28 02:00:00"
-updated: "2016-05-28 02:02:35"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '8320649355540850837'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-8320649355540850837
+updated: '2016-05-28 02:02:35'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-YeMfXyIiJzQ/V0j7tenWoJI/AAAAAAAAAPE/TQYWtME5Oes/s640/IMG_20160527_195313.jpg
 ---
 

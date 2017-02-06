@@ -1,14 +1,14 @@
 ---
-title: "Education. "
-layout: "post"
+title: 'Education. '
+date: 2016-06-20 13:46:00 Z
 permalink: "/2016/06/education.html"
-uuid: "136301497620539259"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-136301497620539259"
-date: "2016-06-20 13:46:00"
-updated: "2016-06-20 13:46:54"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '136301497620539259'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-136301497620539259
+updated: '2016-06-20 13:46:54'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-65NB9QRWCU8/V2fzzfVHPSI/AAAAAAAAAP8/5CsPmXnUIvo/s640/20160505_191052.jpg
 ---
 

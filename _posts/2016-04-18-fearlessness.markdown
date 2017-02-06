@@ -1,14 +1,14 @@
 ---
-title: "Fearlessness."
-layout: "post"
+title: Fearlessness.
+date: 2016-04-18 11:50:00 Z
 permalink: "/2016/04/fearlessness.html"
-uuid: "6315222856536954434"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-6315222856536954434"
-date: "2016-04-18 11:50:00"
-updated: "2016-04-18 11:50:07"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '6315222856536954434'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-6315222856536954434
+updated: '2016-04-18 11:50:07'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/--0ZjUkQBdH0/VxTJ7rHle4I/AAAAAAAAAOM/Z6g9anPFn-g/s640/IMG_20160418_063608.jpg
 ---
 

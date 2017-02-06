@@ -1,14 +1,14 @@
 ---
-title: "Prophecies."
-layout: "post"
+title: Prophecies.
+date: 2016-09-06 14:12:00 Z
 permalink: "/2016/09/prophecies.html"
-uuid: "6745197171395582703"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-6745197171395582703"
-date: "2016-09-06 14:12:00"
-updated: "2016-09-06 14:12:05"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '6745197171395582703'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-6745197171395582703
+updated: '2016-09-06 14:12:05'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-FL1zdlPrBxE/V87OtLp_OAI/AAAAAAAAATY/7qAhsAfY99U/s640/20160904_104320.jpg
 ---
 

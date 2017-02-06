@@ -1,14 +1,14 @@
 ---
-title: "Reflections"
-layout: "post"
+title: Reflections
+date: 2016-03-15 02:44:00 Z
 permalink: "/2016/03/reflections.html"
-uuid: "914690685203214147"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-914690685203214147"
-date: "2016-03-15 02:44:00"
-updated: "2016-03-15 02:44:49"
-description:
+layout: post
+uuid: '914690685203214147'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-914690685203214147
+updated: '2016-03-15 02:44:49'
+description: 
 author: Brittany Janning
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-yzIe6cFf3MQ/Vud3H6ucPbI/AAAAAAAAALU/iWhBjvJGXlw/s640/IMG_20160314_213753.jpg
 ---
 

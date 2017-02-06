@@ -1,14 +1,14 @@
 ---
-title: "Ideology. "
-layout: "post"
+title: 'Ideology. '
+date: 2016-08-23 14:18:00 Z
 permalink: "/2016/08/ideology.html"
-uuid: "7650601614202102867"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-7650601614202102867"
-date: "2016-08-23 14:18:00"
-updated: "2016-08-23 14:18:11"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '7650601614202102867'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-7650601614202102867
+updated: '2016-08-23 14:18:11'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-d1nNxdPpOBg/V7xbIg7jHwI/AAAAAAAAASs/ObO7nJytS1Q/s640/IMG_20160817_212919.jpg
 ---
 

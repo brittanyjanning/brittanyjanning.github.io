@@ -1,14 +1,14 @@
 ---
-title: "Freedom "
-layout: "post"
+title: 'Freedom '
+date: 2016-03-16 01:39:00 Z
 permalink: "/2016/03/freedom.html"
-uuid: "2567829738253649429"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-2567829738253649429"
-date: "2016-03-16 01:39:00"
-updated: "2016-03-16 01:39:24"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '2567829738253649429'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-2567829738253649429
+updated: '2016-03-16 01:39:24'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-00WYJYoaMeU/Vui5S8aYNcI/AAAAAAAAALk/E2q8zcdRzoI/s640/IMG_20160315_203344.jpg
 ---
 

@@ -1,14 +1,14 @@
 ---
-title: "Sensation."
-layout: "post"
+title: Sensation.
+date: 2016-07-26 14:40:00 Z
 permalink: "/2016/07/sensation.html"
-uuid: "294483011609456760"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-294483011609456760"
-date: "2016-07-26 14:40:00"
-updated: "2016-07-26 14:44:23"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '294483011609456760'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-294483011609456760
+updated: '2016-07-26 14:44:23'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-LWngNLlTLRY/V5d3RioOtpI/AAAAAAAAASA/54jWFCH_mVU/s640/20140808_111602.jpg
 ---
 

@@ -1,15 +1,15 @@
 ---
-title: "Meditation. "
-layout: "post"
+title: 'Meditation. '
+date: 2017-01-28 15:09:00 Z
 permalink: "/2017/01/meditation.html"
-uuid: "6011643039058849041"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-6011643039058849041"
-date: "2017-01-28 15:09:00"
-updated: "2017-01-28 15:09:40"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
-image: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '6011643039058849041'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-6011643039058849041
+updated: '2017-01-28 15:09:40'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
+image: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 ---
 
 <div class="css-full-post-content js-full-post-content">

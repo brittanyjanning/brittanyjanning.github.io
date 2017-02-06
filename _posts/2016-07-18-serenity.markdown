@@ -1,14 +1,14 @@
 ---
-title: "Serenity "
-layout: "post"
+title: 'Serenity '
+date: 2016-07-18 14:21:00 Z
 permalink: "/2016/07/serenity.html"
-uuid: "206366138303643062"
-guid: "tag:blogger.com,1999:blog-1260910330392094082.post-206366138303643062"
-date: "2016-07-18 14:21:00"
-updated: "2016-07-18 14:29:52"
-description:
-author: "Brittany Janning"
-avatar: "https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg"
+layout: post
+uuid: '206366138303643062'
+guid: tag:blogger.com,1999:blog-1260910330392094082.post-206366138303643062
+updated: '2016-07-18 14:29:52'
+description: 
+author: Brittany Janning
+avatar: https://lh3.googleusercontent.com/-a_QFVAQfJ8A/WIy0MwtcNYI/AAAAAAAAAYU/MjTQjocbF6Q/s640/IMG_20170126_093835_269.jpg
 image: https://lh3.googleusercontent.com/-YtK68e-9me0/V4zl4-LXXmI/AAAAAAAAARY/tRYZ7b2XPhI/s640/20160709_141853.jpg
 ---
 
